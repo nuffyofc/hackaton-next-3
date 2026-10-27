@@ -1,0 +1,19 @@
+{
+  "type": "AdaptiveCard",
+  "version": "1.6",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Shape holding",
+      "weight": "Bolder",
+      "size": "Medium",
+      "color": "Good"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Defenders stay 12.4m apart on average and no gap is wider than 8.1m.",
+      "wrap": true
+    }
+  ]
+}

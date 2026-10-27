@@ -1,0 +1,9 @@
+# Azure Developer CLI config — fill service image/name when ready to deploy.
+name: hackaton-next
+metadata:
+  template: generic-hackathon-skeleton
+services:
+  api:
+    project: .
+    host: containerapp
+    # language: python

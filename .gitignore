@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/**/*.parquet
+data/**/*.csv
+data/**/*.json
+!data/sample/.gitkeep
+.pytest_cache/
+*.duckdb
+.azure/
+_imported/
+uvicorn.*.log

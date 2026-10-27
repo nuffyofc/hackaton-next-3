@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+_imported/
+data/
+tests/
+docs/
+demo/
+.devcontainer/
+.pytest_cache/
+*.duckdb
+.azure/
+uvicorn.*.log
+README.md
+BUILD.md
